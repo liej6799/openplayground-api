@@ -1,3 +1,6 @@
 [submodule "openplayground-cli"]
 	path = openplayground-cli
 	url = https://github.com/liej6799/openplayground-cli
+[submodule "toolformer-lib"]
+	path = toolformer-lib
+	url = https://github.com/liej6799/toolformer-lib
